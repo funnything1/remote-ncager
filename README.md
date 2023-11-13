@@ -2,8 +2,9 @@
 Remote nicolas cager
 
 
-Adds ncage+ extention to google chrome forcefully to any specified computer using a powershell function
+A simple script that adds ncage+ extention to google chrome forcefully to any specified computer
 
+Warning: The user wont be able to remove the extension on their own unless they know what registry key to delete
 
 ncage+: https://chromewebstore.google.com/detail/ncage+/blenoallcdijagcfhdbidjiimoandabh?pli=1
 
