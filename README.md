@@ -15,7 +15,7 @@ Requires admin acces to the computer
 
 Usage:
 
-```Cage -Computer Desktop-Test```     Adds the extension ot chrome on the computer "Desktop-Test"
+```Cage -Computer Desktop-Test```     Adds the extension to chrome on the computer "Desktop-Test"
 
 ```Cage -Computer Desktop-Test -Remove``` Removes the extension on the computer "Desktop-Test"
 
