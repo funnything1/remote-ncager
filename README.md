@@ -10,7 +10,8 @@ ncage+: https://chromewebstore.google.com/detail/ncage+/blenoallcdijagcfhdbidjii
 
 For remote computers requires winrm to be enabled and running: https://support.auvik.com/hc/en-us/articles/204424994-How-to-enable-WinRM-with-domain-controller-Group-Policy-for-WMI-monitoring
 
-Add the function to the end of your powerhsell profile to make it persistant: ```"C:\Users\%UserProfile%\Documents\WindowsPowerShell\profile.ps1"```
+Add the function to the end of your powerhsell profile to make it persistant:
+ ```"C:\Users\%UserProfile%\Documents\WindowsPowerShell\profile.ps1"```
 
 Requires admin acces to the computer
 
